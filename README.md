@@ -2,7 +2,7 @@
 
 - 👋 Hi there! I'm Lokesh Kodavati, also known as Loki @loki-jarvis
 - 🌱 I'm well-versed in DevOps & Cloud Technologies
-- 🧑🏻‍🎓 I'm a Graduate student at Rutgers University.
+- 🧑🏻‍🎓 I’m currently pursuing my Masters in **Computer Science at Rutgers University.**
 
 ## Contact Information
 
