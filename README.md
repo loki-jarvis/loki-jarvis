@@ -7,8 +7,8 @@
 ## Contact Information
 
 📫  Email: Lokesh.Kodavati@rutgers.edu
-📱 Mobile: +1 908-549-3503
 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/lokesh-kodavati/)
+📱 Mobile: +1 908-549-3503
 
 ## Technical Skills
 - 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Istio, Docker, Rancher, Terraform, Kubernetes, Ansible, JFrog, SonarQube, AquaSec
