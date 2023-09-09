@@ -18,10 +18,23 @@ AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
 [![Repos Badge](https://badges.pufler.dev/repos/loki-jarvis)](https://github.com/loki-jarvis?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/loki-jarvis)
 
-## Contact Information
+<h1 align="center"> Find me around the web :globe_with_meridians:</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lokesh-kodavati/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lokesh.kodavati@rutgers.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/loki.jarvis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/919032973619"><img src="https://img.shields.io/badge/WhatsApp-%9999100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-📫  Email: Lokesh.Kodavati@rutgers.edu
-🔗  LinkedIn: [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lokesh-kodavati/)
+## Technical Skills
+- 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Istio, Docker, Rancher, Terraform, Kubernetes, Ansible, JFrog, SonarQube, AquaSec
+- ☁️ **Cloud Platforms**: Azure, Google Cloud Platform
+- 📊 **Monitoring & Alerts**: Grafana, ELK, Slack, PagerDuty, Site 24x7
+- 🔧 **CI/CD**: Jenkins, GitHub Actions, Azure DevOps
+- 📈 **Data Visualization**: Jupyter Notebooks, Tableau
+- 📝 **Languages**: Bash/Shell, Python, Java, C++
+- 🌐 **Web Development**: HTML, CSS, Node.js
+- 📚 **Databases**: MySQL, MongoDB
 
 ### :zap: GitHub Trophies 🏆
 
@@ -42,13 +55,3 @@ AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
 <p align="center">&nbsp;
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loki-jarvis&theme=dracula" />
 </p>
-
-## Technical Skills
-- 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Istio, Docker, Rancher, Terraform, Kubernetes, Ansible, JFrog, SonarQube, AquaSec
-- ☁️ **Cloud Platforms**: Azure, Google Cloud Platform
-- 📊 **Monitoring & Alerts**: Grafana, ELK, Slack, PagerDuty, Site 24x7
-- 🔧 **CI/CD**: Jenkins, GitHub Actions, Azure DevOps
-- 📈 **Data Visualization**: Jupyter Notebooks, Tableau
-- 📝 **Languages**: Bash/Shell, Python, Java, C++
-- 🌐 **Web Development**: HTML, CSS, Node.js
-- 📚 **Databases**: MySQL, MongoDB
