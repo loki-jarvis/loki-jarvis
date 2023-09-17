@@ -23,7 +23,7 @@ AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
   <a href="https://www.linkedin.com/in/lokesh-kodavati/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lokesh.kodavati@rutgers.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/loki.jarvis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/919032973619"><img src="https://img.shields.io/badge/WhatsApp-%9999100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/19085493503"><img src="https://img.shields.io/badge/WhatsApp-%9999100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Technical Skills
