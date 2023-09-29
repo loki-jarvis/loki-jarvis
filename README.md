@@ -2,7 +2,7 @@
 <img src="https://github.com/loki-jarvis/loki-jarvis/blob/main/images/Developer.gif" width="200px">
 </p>
   
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.linkedin.com/in/lokesh-kodavati/"> Lokesh Kodavati </a>!! 
+<h1 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.linkedin.com/in/lokesh-kodavati/"> Lokesh Kodavati </a>!!
 
 AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
 
@@ -13,7 +13,6 @@ AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
 - 🌱 I'm well-versed in DevOps & Cloud Technologies
 - 🎯 My primary focus is on learning new Tools and Technologies that would help me get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" position="absolute" height="60px" style="vertical-align:middle; inline-block;"/>
 - 🧑🏻‍🎓 I’m currently pursuing my Masters in **Computer Science at Rutgers University.**
-
 
 [![Repos Badge](https://badges.pufler.dev/repos/loki-jarvis)](https://github.com/loki-jarvis?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/loki-jarvis)
