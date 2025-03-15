@@ -11,8 +11,10 @@ AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
 </h1>
   
 - 🌱 I'm well-versed in DevOps & Cloud Technologies
-- 🎯 My primary focus is on learning new Tools and Technologies that would help me get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" position="absolute" height="60px" style="vertical-align:middle; inline-block;"/>
-- 🧑🏻‍🎓 I’m currently pursuing my Masters in **Computer Science at Rutgers University.**
+- 🎯 My primary focus is on learning new Tools and Technologies that would help me become a well-versed DevOps Architect
+<!-- get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" position="absolute" height="60px" style="vertical-align:middle; inline-block;"/> -->
+</h1>
+- 🧑🏻‍🎓 I’m currently working as a DevOps Engineer II in NCR Voyix after completing my Masters in **Computer Science at Rutgers University, NJ , USA.**
 
 [![Repos Badge](https://badges.pufler.dev/repos/loki-jarvis)](https://github.com/loki-jarvis?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/loki-jarvis)
