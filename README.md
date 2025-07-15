@@ -6,7 +6,7 @@
 
 AKA - <a href="https://github.com/loki-jarvis"> @loki-jarvis</a>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=DevOps+Engineer;Graduate+Student" </p> 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=DevOps+Engineer;Site+Reliability+Engineer" </p> 
 <!--   <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px" height = "60px"> -->
 </h1>
   
